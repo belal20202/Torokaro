@@ -1,0 +1,8 @@
+{
+  "appId": "com.torokaro.belal",
+  "appName": "توروكارو",
+  "webDir": "dist",
+  "backgroundColor": "#0b3d3a",
+  "android": { "backgroundColor": "#0b3d3a" },
+  "plugins": { "CapacitorHttp": { "enabled": true } }
+}
